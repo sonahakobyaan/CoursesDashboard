@@ -1,4 +1,4 @@
-# 🎵 Music Courses Application
+# Courses Application
 
 A modern, full-featured React application for managing music courses with complete authentication, course management, and author administration capabilities. Built with React 19, TypeScript, and Material UI.
 
@@ -401,34 +401,6 @@ interface Author {
 - Maintain prop type definitions
 - Write meaningful commit messages
 - Add comments for complex logic
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- [React Team](https://react.dev/) for the amazing React framework
-- [Material UI](https://mui.com/) for the beautiful component library
-- [Vite Team](https://vitejs.dev/) for the fast build tool
-- [DummyJSON](https://dummyjson.com/) for the authentication API
-- [MockAPI](https://mockapi.io/) for the data simulation platform
-- [Lucide](https://lucide.dev/) for the beautiful icons
-- [RS School](https://rs.school/) for the educational program
-
----
-
-## 📞 Contact
-
-**Sona Hakobyan** - [sona22hakobyan@gmail.com](mailto:sona22hakobyan@gmail.com)
-
-Project Link: [https://github.com/sonahakobyaan/react-task-1](https://github.com/sonahakobyaan/react-task-1)
-
----
 
 <div align="center">
   Made with ❤️ by Sona Hakobyan
